@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "ai-news-aggregator": {
+      "command": "/path/to/your/python",
+      "args": ["/path/to/MCP-AI-NEWS-AGENT/server.py"],
+      "env": {
+        "PYTHONPATH": "/path/to/MCP-AI-NEWS-AGENT"
+      }
+    }
+  }
+}
